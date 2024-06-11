@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "Queries",
+      "database": "${workspaceFolder:python-p3-sql-queries}/pets.sql"
+    }
+  ]
+}
